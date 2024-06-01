@@ -8,7 +8,7 @@ package codingTest_similar_majorCompany;
 //허리의 길이 -> 심장의 위치에서 다리가 시작되는 전 줄의 위치를 뺌
 //왼쪽 다리의 길이-> 허리가 끝난 다음 줄부터 처음 *이 발견되었을 때의 좌표에서 그 세로줄에서 더이상 *이 안나올 때까지
 //오른 다리의 길이 -> 왼쪽 다리 다음다음부터 좌표가 시작되므로 그 세로 줄에서 더이상 *이 안나올 때까지
-//
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
