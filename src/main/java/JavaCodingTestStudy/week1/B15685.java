@@ -58,7 +58,7 @@ public class B15685 {
         return count;
     }
 }
-class Node{
+class Node{ //x,y좌표 방향 세대
     int x,y,dir,gen;
     public Node(int x,int y,int dir,int gen){
         this.x = x;
